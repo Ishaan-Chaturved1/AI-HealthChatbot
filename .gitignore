@@ -1,0 +1,5 @@
+.env
+venv/
+
+Data/pdf/
+faiss_index/
